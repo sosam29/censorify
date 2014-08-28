@@ -1,0 +1,9 @@
+{
+	"author": "sam sonawane",
+	"name" : "censorify",
+	"version" : "0.0.1",
+	"description": "Censoring the words",
+	"main": "censot-text",
+	"dependencies": {},
+	"engines":{ "node" :"*"}
+}

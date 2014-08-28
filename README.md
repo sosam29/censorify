@@ -1,0 +1,1 @@
+this file reads the word and sensor the words as per list precompiled.
