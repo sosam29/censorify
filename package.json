@@ -4,6 +4,11 @@
 	"version" : "0.0.1",
 	"description": "Censoring the words",
 	"main": "censot-text",
+	"repository" :{
+		"type": "git",
+		"url":"git@github.com:sosam29/censorify.git"
+		},
+		"keywords":["censor", "words"],	
 	"dependencies": {},
 	"engines":{ "node" :"*"}
 }
